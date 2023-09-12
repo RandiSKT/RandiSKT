@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandiSKT, Fernando Randi
-- 👀 I’m interested in DataScience and other technologys, also in skateboarding...
+- 👀 I’m interested in DataScience, Development and other technologys, also in skateboarding...
 - 🌱 I’m currently learning Informacion Science in UFSC, Florianópolis-Brasil
 - 💞️ I’m looking to collaborate with codes that can be usefull for the community and also to engage helping each other with new kngledges and doubts
 - 📫 How to reach me feferandii@gmail.com
